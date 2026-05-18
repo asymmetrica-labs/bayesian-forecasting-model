@@ -29,7 +29,7 @@ Demand planning
 Financial time series
 Risk-aware decision-making
 
-🛠 Tech Stack
+🛠 Tech Stack -
 Python
 NumPy / Pandas
 Matplotlib

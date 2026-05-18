@@ -10,20 +10,20 @@ Most forecasting methods give single-point predictions, which hide uncertainty.
 
 This project uses Bayesian methods to produce:
 
-Forecasted mean values 📈
+Forecasted mean values 📈 -
 95% credible intervals (uncertainty bands) 📊
 
-⚙️ Method
+⚙️ Method -
 Bayesian regression / time series model
 Prior + posterior inference
 Full predictive distributions instead of point estimates
 
-📈 Output
+📈 Output -
 Forecast vs actual comparison
 Uncertainty range (credible intervals)
 Visualised predictions over time
 
-🧪 Use Cases
+🧪 Use Cases -
 Sales forecasting
 Demand planning
 Financial time series

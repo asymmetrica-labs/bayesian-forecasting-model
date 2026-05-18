@@ -13,6 +13,8 @@ This project uses Bayesian methods to produce:
 Forecasted mean values 📈 -
 95% credible intervals (uncertainty bands) 📊
 
+
+
 ⚙️ Method -
 Bayesian regression / time series model
 Prior + posterior inference
